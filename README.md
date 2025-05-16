@@ -17,3 +17,7 @@ The algorithm iterates through the list and inserts each element into its correc
 Input:
 ```python
 [5, 2, 9, 1, 5, 6]
+
+Output:
+```python
+[9, 6, 5, 5, 2, 1]
