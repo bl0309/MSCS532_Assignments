@@ -25,3 +25,24 @@ Insertion Sort in Monotonically Decreasing Order
 Enter a list of integers (comma-separated), or press Enter to use default:  
 Using default list: [5, 2, 9, 1, 5, 6]  
 Sorted array (decreasing): [9, 6, 5, 5, 2, 1]  
+
+
+# MSCS532_Assignment2
+
+## Sorting Implementations: 
+Recursive in-place Quick Sort and Merge Sort.
+
+## Performance Measurement: 
+Uses time.perf_counter() for timing and tracemalloc for peak memory tracking.
+
+## Datasets:
+
+- Sorted (ascending)
+- Reverse-sorted (descending)
+- Random (uniformly shuffled)
+
+## Data Export: 
+Results saved as sort_performance_results.csv.
+
+## Visualization: 
+Plots execution time and memory usage vs. input size for each dataset type.
