@@ -46,3 +46,21 @@ Results saved as sort_performance_results.csv.
 
 ## Visualization: 
 Plots execution time and memory usage vs. input size for each dataset type.
+
+# MSCS532_Assignment3
+
+## Run the script for part 1: 
+python3 quicksort_analysis.py
+
+Output:
+- quicksort_results.csv — contains raw timing data
+- quicksort_comparison_plot.png — visual comparison of performance
+
+## Run the script for part 2: 
+python3 has_table.py
+
+Prints:
+- A printed dictionary of key–value pairs after initial inserts.
+- Correct search results.
+- Confirmation of successful deletes.
+- Automatic resizing once the load factor exceeds 0.75, doubling capacity and rehashing all entries.
