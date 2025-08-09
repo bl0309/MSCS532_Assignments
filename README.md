@@ -78,3 +78,41 @@ python3 priority_queue.py
 
 Output:
 - A graph showing the result of Priority Queue Runtime vs Number of Tasks using a binary heap implementation.
+
+# 5. MSCS532_Assignment_5
+
+## Run the script: 
+python3 randomize_sort.py
+
+Output:
+- A graph and summary performance tanle showing input size and execution time for the randomize algorithm (random, sorted and reverse).
+
+# 6. MSCS532_Assignment_6
+
+## Run the script for Part 1:
+python3 selection_analysis.py
+
+Output:
+- A plotted graph of analysis of selection benchmark result and table result
+
+## Run the script for Part 2:
+python3 data_structure.py
+
+Output:
+- A plotted graph of analysis of data structure performance result and table result
+
+# 7. MSCS532_Assignment_7
+
+## Run the script:
+python3 hash_table_insertion.py
+
+Output:
+- A plotted graph of analysis of selection benchmark result for Hash Table Insertion Time vs Load Factor
+
+# 8. MSCS532_Final_Project
+
+## Run the script:
+python3 hpc_optimization.py
+
+Output:
+- A plotted graph of analysis of benchmark result for Performance, cache efficiency, and complexity analysis for naive, cache-optimized, and NumPy-based matrix multiplication implementations.
